@@ -1,0 +1,29 @@
+{
+  "name": "third",
+  "version": "0.1.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "array"
+  ],
+  "author": "third",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "express": "^4.17.1",
+    "request-promise": "^4.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdku/new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thirdku/new/issues"
+  },
+  "homepage": "https://github.com/thirdku/new#readme"
+}
